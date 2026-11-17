@@ -462,7 +462,7 @@
                             </span>
 
                             <h3>
-                                TMIdeation Programme
+                                TMI Ideation Programme
                             </h3>
 
                             <h4>Participant & Top 5 Finalist</h4>
